@@ -1,7 +1,0 @@
-#YOLOv8- Based Helmet and Vest Detection system for Safety Assessment
-
-The YOLOv8-s model was employed, achieving a 99.5% mean average
-precision (mAP) accuracy rate in real-time. Implementing this proposed system has the
-potential to significantly improve safety practices in the construction industry by enabling
-efficient and reliable monitoring of personal protective equipment usage, thus enhancing
-overall safety at construction sites.
